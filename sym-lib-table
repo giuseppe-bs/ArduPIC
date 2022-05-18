@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "ATS20A")(type "Legacy")(uri "${KIPRJMOD}/AditionalModels/ATS20A.lib")(options "")(descr ""))
+  (lib (name "PBLE01")(type "KiCad")(uri "${KIPRJMOD}/AditionalModels/PBLE01.kicad_sym")(options "")(descr ""))
+)
